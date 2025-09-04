@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm David Wang</h1>
-<h3 align="center">A passionate full stack developer that is currently a ECE masters student at UofT</h3>
+<h3 align="center">A passionate full-stack developer and current Master's student in Electrical & Computer Engineering at the University of Toronto. </h3>
 
-- 🔭 I’m currently working on **Neural Recording & Stimulation System**
-
-- 🌱 I’m currently learning **Mobile app development using React Native and Expo**
-
-- 💬 Ask me about **Python, Java, C++, full-stack development, or AI/ML engineering.**
-
-- 📫 How to reach me **davidwangchenxu@gmail.com**
+- 🔭 I’m currently working on a Neural Recording & Stimulation System to help advance neurotechnology research.
+  
+- 🌱 I’m currently learning mobile app development with React Native and Expo.
+  
+- 💬 Ask me about Python, Java, C++, full-stack development, or AI/ML engineering.
+  
+- 📫 How to reach me: **davidwangchenxu@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

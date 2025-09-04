@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on full-stack web applications and AI/ML projects, including data-driven tools and automation pipelines.
+- 🌱 I’m currently learning advanced cloud-native architectures, distributed systems, and AI-assisted development.
+- 👯 I’m looking to collaborate on open-source projects involving machine learning, cloud platforms, or innovative web applications.
+- 🤔 I’m looking for help with optimizing large-scale data workflows and exploring best practices for production-grade AI systems.
+- 💬 Ask me about Python, Java, C++, full-stack development, or AI/ML engineering.
 <!--
 **Davidwcx/Davidwcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
